@@ -1,17 +1,5 @@
 # From Docker to Kubernetes
 
-<div align="center">
-  <img src="public/logo.svg" alt="From Docker to Kubernetes Logo" width="200"/>
-  
-  <h3>A Free & Open Source Learning Platform for Container Orchestration</h3>
-
-  [![GitHub stars](https://img.shields.io/github/stars/NotHarshhaa/from-docker-to-kubernetes?style=social)](https://github.com/NotHarshhaa/from-docker-to-kubernetes/stargazers)
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
-
-  [Website](https://dockertokubernetes.live) • [Documentation](https://dockertokubernetes.live/getting-started/introduction) • [Community](https://t.me/prodevopsguy)
-</div>
-
 ## 🚀 About The Project
 
 ![banner](./public/banner.png)
@@ -158,25 +146,6 @@ Check our [Contributing Guidelines](CONTRIBUTING.md) to get started.
 - [shadcn-vue](https://www.shadcn-vue.com/) - UI Components
 - [TailwindCSS](https://tailwindcss.com) - Styling
 
-## 📞 Connect With Us
-
-- [GitHub](https://github.com/NotHarshhaa)
-- [LinkedIn](https://linkedin.com/in/harshhaa-vardhan-reddy)
-- [Telegram](https://t.me/NotHarshhaa)
-- [Website](https://prodevopsguytech.com)
-
-## ❤️ Support
-
-If you find this project helpful, please consider:
-
-- ⭐ Starring the repository
-- 🍕 [Supporting us on Ko-fi](https://ko-fi.com/NotHarshhaa)
-- 📢 Sharing with your network
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 📅 Latest Updates
 
 Our latest release (v1.8.0) includes:
@@ -210,27 +179,3 @@ Our latest release (v1.8.0) includes:
 
 ---
 
-## 🛠️ Author & Community  
-
-This project is crafted with 💡 by **[Harshhaa](https://github.com/NotHarshhaa)**.  
-Your feedback is always welcome! Let's build together. 🚀  
-
-📧 **Connect with me:**  
-🔗 **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)  
-🔗 **Blog**: [ProDevOpsGuy](https://blog.prodevopsguy.xyz)  
-🔗 **Telegram Community**: [Join Here](https://t.me/prodevopsguy)  
-🔗 **LinkedIn**: [Harshhaa Vardhan Reddy](https://www.linkedin.com/in/harshhaa-vardhan-reddy/)  
-
----
-
-## ⭐ Support the Project  
-
-If this helped you, consider:  
-✅ **Starring** ⭐ this repository  
-✅ **Sharing** 📢 with your network  
-
----
-
-### 📢 Stay Connected  
-
-![Follow Me](https://imgur.com/2j7GSPs.png)
