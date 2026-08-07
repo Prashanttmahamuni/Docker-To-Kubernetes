@@ -6,7 +6,7 @@ export default defineNuxtConfig({
     defaultLocale: 'en',
     locales: [
       {
-        code: 'en',
+        code: 'en',            
         name: 'English',
         language: 'en-US',            
       },
