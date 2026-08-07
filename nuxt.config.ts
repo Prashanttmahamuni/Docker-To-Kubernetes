@@ -8,7 +8,7 @@ export default defineNuxtConfig({
       {
         code: 'en',
         name: 'English',
-        language: 'en-US',
+        language: 'en-US',            
       },
     ],
   },
