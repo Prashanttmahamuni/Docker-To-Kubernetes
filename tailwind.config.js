@@ -4,7 +4,7 @@ export default {
   darkMode: 'class',
   safelist: ['dark'],    
   prefix: '',              
-  content: [
+  content: [                
     './content/**/*',
   ],
   theme: {
