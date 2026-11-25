@@ -7,7 +7,7 @@
 ### 🎯 What You'll Learn.                                  
                            
 <ul>                
-  <li><strong>Docker Fundamentals</strong>
+  <li><strong>Docker Fundamentals</strong>  
     <ul>
       <li><a href="https://dockertokubernetes.live/learn-docker/docker/containers" target="_blank" rel="noopener">Container basics and lifecycle</a></li>
       <li><a href="https://dockertokubernetes.live/learn-docker/docker/images" target="_blank" rel="noopener">Image creation and optimization</a></li>
