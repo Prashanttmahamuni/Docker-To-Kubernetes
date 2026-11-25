@@ -6,7 +6,7 @@
 **From Docker to Kubernetes** is a comprehensive, hands-on learning platform designed to help developers and DevOps engineers master containerization and orchestration technologies. Our platform provides a structured learning path from Docker basics to advanced Kubernetes deployments, all completely free and open source.                                                                   
 ### 🎯 What You'll Learn.                                  
                           
-<ul>            
+<ul>               
   <li><strong>Docker Fundamentals</strong>
     <ul>
       <li><a href="https://dockertokubernetes.live/learn-docker/docker/containers" target="_blank" rel="noopener">Container basics and lifecycle</a></li>
