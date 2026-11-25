@@ -16,7 +16,7 @@
       <li><a href="https://dockertokubernetes.live/learn-docker/docker/docker-compose" target="_blank" rel="noopener">Multi-container applications with Docker Compose</a></li>
       <li><a href="https://dockertokubernetes.live/learn-docker/docker/security" target="_blank" rel="noopener">Docker Security</a></li>
     </ul>
-  </li>
+  </li>.   
   <li><strong>Kubernetes Mastery</strong>
     <ul>
       <li><a href="https://dockertokubernetes.live/learn-kubernetes/kubernetes/architecture" target="_blank" rel="noopener">Cluster architecture and components</a></li>
